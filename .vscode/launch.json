@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DniBackendApplication<dni-backend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "org.example.Application",
+            "projectName": "spring-boot-graphql-playground",
+            "args": ""
+        }
+    ]
+}
